@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.zerock.test.SeleniumTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-28T07:50:43" hostname="DESKTOP-DMIIU3J" time="7.864">
+  <properties/>
+  <testcase name="testOne()" classname="org.zerock.test.SeleniumTests" time="7.864"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 46216
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+6월 28, 2021 4:50:45 오후 org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
